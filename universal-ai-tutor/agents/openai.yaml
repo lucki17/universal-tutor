@@ -1,0 +1,4 @@
+interface:
+  display_name: "Universal AI Tutor — Beta 0.1"
+  short_description: "Deep teaching across subjects, one task at a time"
+  default_prompt: "Use $universal-ai-tutor to teach me from my imported course files, assess my starting point, and guide me one question at a time."
