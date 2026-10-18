@@ -1,0 +1,8 @@
+# Personal course materials and learner records must stay outside the release.
+personal/
+learner-records/
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
